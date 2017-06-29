@@ -1,0 +1,21 @@
+{
+    "source_id": "BrandenburgAirQuailtyData",
+    "device": "null",
+    "timestamp": "null",
+    "timestamp_record": "this is gonna be the timestamp, when the data is included into the database",
+    "location":{
+        "lat": 48.779,
+        "lon": 9.160
+    },
+    "licence": "gotta find out",
+    "sensors" : {
+        "O3": {
+            "sensor": "null",
+            "observation_value:" : 1
+            },
+        "SO2": {
+            "sensor": "null",
+            "observation_value:" : 74
+            }
+    }
+}
