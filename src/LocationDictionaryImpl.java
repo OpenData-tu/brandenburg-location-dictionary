@@ -18,6 +18,7 @@ public class LocationDictionaryImpl implements LocationDictionary {
     @Override
     public void fillDictionary() {
 
+
         locationDictionary.put("Cottbus", new Location(51.74634, 14.33455));
         locationDictionary.put("Blankenfelde-Mahlow", new Location(52.34970, 13.42431));
         locationDictionary.put("Brandenburg a.d.Havel", new Location(52.42044, 112.55230));
@@ -46,8 +47,6 @@ public class LocationDictionaryImpl implements LocationDictionary {
         locationDictionary.put("Frankfurt (O), Leipziger Str. v", new Location(52.33734, 14.53859));
         locationDictionary.put("Cottbus, W.-Külz-Str. v", new Location(51.75413, 14.32552));
         locationDictionary.put("Premnitz, OT Döberitz", new Location(52.52401, 12.37016));
-
-
 
 
     }
