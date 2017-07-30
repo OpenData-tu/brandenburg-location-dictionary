@@ -2,6 +2,7 @@ import java.util.HashMap;
 
 /**
  * Created by rohullahayobi on 6/28/17.
+   all measurement stations are mapped to thier locations
  */
 public class LocationDictionaryImpl implements LocationDictionary {
 
@@ -15,9 +16,14 @@ public class LocationDictionaryImpl implements LocationDictionary {
 
     }
 
+
     @Override
     public void fillDictionary() {
 
+/*
+this implementation actually created to mapp stations with the interface, 
+how ever we then mapped all the stations statically in LocationToCoordinates class
+*/
 
         locationDictionary.put("Cottbus", new Location(51.74634, 14.33455));
         locationDictionary.put("Blankenfelde-Mahlow", new Location(52.34970, 13.42431));

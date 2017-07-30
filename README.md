@@ -1,7 +1,7 @@
 
 # Brandenburg Location Dictionary
 
-A dictionary for converting location names into coordinates for Brandenburg Air Quality Data Importer. 
+A dictionary for converting location names into coordinates for Brandenburg Air Quality Data Importer.
 - This components will be embedded into **Brandenburg Air Quality Data Importer** inorder to map the names of location into thier specific coordinates.
 - This component has also the functionality to reduce the (Minutes and Seconds) in coordinates into Degree.
 

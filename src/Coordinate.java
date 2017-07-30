@@ -1,5 +1,6 @@
 /**
  * Created by rohullahayobi on 6/28/17.
+ class setters and getters for prameters to reduce minutes and seconds into just degree
  */
 public class Coordinate {
 

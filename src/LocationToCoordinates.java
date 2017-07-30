@@ -4,10 +4,13 @@ import java.util.Map;
 
 /**
  * Created by rohullah on 05.07.17.
+ this class statically map all the stations to into coordinates using hash function
  */
 public class LocationToCoordinates {
 
     public static final Map<String, Location> locationNamesToCoordinates;
+
+// statically all the stations of the Brandenburg data source are mapped to thier coordinates
 
     static {
         HashMap<String, Location> locationDictionary = new HashMap<>();

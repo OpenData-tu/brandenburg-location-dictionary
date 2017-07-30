@@ -1,6 +1,7 @@
 
 /**
  * Created by rohullahayobi on 6/28/17.
+ this is the main class for using LocationDictionary interface
  */
 public class Main {
 

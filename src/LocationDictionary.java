@@ -3,6 +3,7 @@ import java.util.Map;
 
 /**
  * Created by rohullahayobi on 6/28/17.
+ interface to use functions from LocationDictionaryImpl class
  */
 public interface LocationDictionary {
 

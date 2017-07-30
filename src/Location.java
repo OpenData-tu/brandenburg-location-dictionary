@@ -1,5 +1,6 @@
 /**
  * Created by rohullahayobi on 6/28/17.
+ class setters and getters for parameters of coordinates of measuring stations
  */
 public class Location {
 

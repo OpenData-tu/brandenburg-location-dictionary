@@ -2,6 +2,7 @@ import java.util.StringTokenizer;
 
 /**
  * Created by rohullahayobi on 6/28/17.
+ this class reduce the minutes and seconds into just degree such as: 51° 44' 46.84 N -> 51.746°
  */
 public class UnitConverterImpl implements UnitConverter {
     @Override
